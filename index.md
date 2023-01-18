@@ -31,7 +31,7 @@ Studying computer science master at University of Helsinki
 
 `Oct 2018 - Aug 2022`
 **B.S., Computer Science** [Paderborn University](https://www.uni-paderborn.de/en/)
-- Paderborn, Germany
+- GPA 1.6 (German scale)
 - Business informatics minor 
 
 
