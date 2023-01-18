@@ -8,7 +8,8 @@ Computer Science Master Student
 <a href="work@frensing.de">work@frensing.de</a>
 
 <div id="webaddress">
-    <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
+    <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
+    | <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
     | <a href="https://www.linkedin.com/in/fabian-rensing-75aa941b8"><i class="fab fa-linkedin"></i> Fabian Rensing</a>
 </div>
 
