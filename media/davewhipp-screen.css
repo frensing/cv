@@ -68,6 +68,10 @@ body {
 	max-width: 1250px;
 }
 
+#main {
+	position: relative;
+}
+
 p {
 	position: relative;
 	left: 25%;
@@ -132,6 +136,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: 50%;
 }
 
 h1+p { 
@@ -193,6 +198,16 @@ strong {
 
 #address {
 	display: none;
+}
+
+#download {
+	position: absolute;
+	right: 12.5%;
+	text-decoration: none;
+}
+
+#download code:hover {
+	color: #39f
 }
 
 
