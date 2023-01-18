@@ -9,13 +9,15 @@ Computer Science Master Student
 
 <div id="webaddress">
     <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
-    | <a href="https://www.linkedin.com/in/fabian-rensing-75aa941b8"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    | <a href="https://www.linkedin.com/in/fabian-rensing-75aa941b8"><i class="fab fa-linkedin"></i> Fabian Rensing</a>
 </div>
 
 
 ## Currently
 
-Studying computer science master at University of Helsinki
+Computer science master student at University of Helsinki.
+
+Interested in problem solving and puzzling tasks.
 
 
 ## Education
@@ -36,6 +38,8 @@ Studying computer science master at University of Helsinki
 
 
 ## Experience
+
+(See [LinkedIn](https://www.linkedin.com/in/fabian-rensing-75aa941b8) for short description of tasks)
 
 ### Student Jobs
 
@@ -95,16 +99,39 @@ Studying computer science master at University of Helsinki
 
 **English** - C1, Toefl iBT score 111/120 (18.12.2021)
 
+## Skills
+Problem solver, Critical thinking
+- quick comprehension and familiarization in new subject domains
+- explain concepts on technical level, but also simplified
 
-## Interests
+### Tech Skills
+**Java**, Spring (Boot), Clean Code
+- **Python**
+- **SQL**, mostly worked with ORACLE SQL
+- **Git**, GitHub, colaborating in Teams
+- **Docker**, Docker Compose
+- Some experience with **Kubernetes**, **AWS**, **Azure**
+- **HTML**, **CSS**, basics in **JavaScript**
+- Learning **Haskell** at the moment
 
-Bouldering, cycling
-Building and flying racing drones
+## Personal
+Birth date: 20. April 1997
+- Citizenship: German
+- Residence: Helsinki, Finland
 
-### Social Work
+### Interests
+
+- Bouldering, cycling, reading
+- Building and flying racing drones
+
+### Volunteering
 
 `2014 - 2022`
 Team leader at local holiday camp for children aged 10 - 15
+
+\
+*Last updated: Jan 2023*
+
 
 <!-- 
 ## Footer
