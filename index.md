@@ -9,7 +9,7 @@ Computer Science Master Student
 
 <div id="webaddress">
     <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
-    | <a href="https://www.linkedin.com/in/fabian-rensing-75aa941b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3BBi0KExJrRWiT2oEpNQ2xiQ%3D%3D"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    | <a href="https://www.linkedin.com/in/fabian-rensing-75aa941b8"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
 
