@@ -15,22 +15,22 @@ Computer Science Master Student
 
 ## Currently
 
-Studying computer science Master at University of Helsinki
+Studying computer science master at University of Helsinki
 
 
 ## Education
 
 `Sep 2022 - now`
-**M.S., Computer Science** University of Helsinki
+**M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
 - Helsinki, Finland
 - Software Track
 
 `Aug 2020 - Dec 2020`
-**Erasmus Exchange Semester** University of Helsinki
+**Erasmus Exchange Semester** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
 - Helsinki, Finland
 
 `Oct 2018 - Aug 2022`
-**B.S., Computer Science** Paderborn University
+**B.S., Computer Science** [Paderborn University](https://www.uni-paderborn.de/en/)
 - Paderborn, Germany
 - Business informatics minor 
 
@@ -40,37 +40,37 @@ Studying computer science Master at University of Helsinki
 ### Student Jobs
 
 `Aug 2022 - Oct 2022`
-**Student Staff** Data Science Group (DICE)
+**Student Staff** [Data Science Group (DICE)](https://dice-research.org/)
 - Paderborn University, Germany
 
 `Mar 2021 - Aug 2022`
-**Student Staff** Fraunhofer IEM
+**Student Staff** [Fraunhofer IEM](https://www.iem.fraunhofer.de/en.html)
 - Paderborn, Germany
 
 `Apr 2020 - Jul 2020`
 **Tutor** Course Data Structures and Algorithms
-- Paderborn University, Germany
+- [Paderborn University](https://www.uni-paderborn.de/en/), Germany
 
 `Sep 2018 - Mar 2019`
-**Student Staff** viadee Unternehmensberatung AG
+**Student Staff** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Münster, Germany
 
 
 ### Fulltime Work
 
 `Feb 2018 - Aug 2018`
-**IT Consultant** viadee Unternehmensberatung AG
+**IT Consultant** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Münster, Germany
 
 `Sep 2015 - Jan 2018`
 **IT Specialist for Application Development**
-- **Apprenticeship**, Deutsche Telekom AG, Münster, Germany
+- **Apprenticeship**, [Deutsche Telekom AG](https://www.telekom.com/en), Münster, Germany
 
 
 ## Internhips
 
 `Oct 2013`
-**Voluntary Internship** IT department of VEKA AG
+**Voluntary Internship** IT department of [VEKA AG](https://www.veka.de/homepage/)
 - Sendenhorst, Germany
 
 `Apr 2013`
@@ -85,7 +85,7 @@ Studying computer science Master at University of Helsinki
 ## Awards
 
 `2020`
-**Heinz-Nixdorf Elite Program Member** Paderborn University
+[**Heinz-Nixdorf Elite Program Member**](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/support-for-talent) Paderborn University
 - Computer Science Faculty, Paderborn, Germany
 
 
