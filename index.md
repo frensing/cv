@@ -71,21 +71,6 @@ Interested in problem solving and puzzling tasks.
 - **Apprenticeship**, [Deutsche Telekom AG](https://www.telekom.com/en), Münster, Germany
 
 
-## Internhips
-
-`Oct 2013`
-**Voluntary Internship** IT department of [VEKA AG](https://www.veka.de/homepage/)
-- Sendenhorst, Germany
-
-`Apr 2013`
-**Voluntary Internship** EDV Systemhaus Arno Kindler
-- Warendorf, Germany
-
-`May 2012`
-**High School Internship** IT department of St. Josef-Stift Hospital
-- Sendenhorst, Germany
-
-
 ## Awards
 
 `2020`
@@ -114,9 +99,25 @@ Problem solver, Critical thinking
 - **HTML**, **CSS**, basics in **JavaScript**
 - Learning **Haskell** at the moment
 
+
+## Internships
+
+`Oct 2013`
+**Voluntary Internship** IT department of [VEKA AG](https://www.veka.de/homepage/)
+- Sendenhorst, Germany
+
+`Apr 2013`
+**Voluntary Internship** EDV Systemhaus Arno Kindler
+- Warendorf, Germany
+
+`May 2012`
+**High School Internship** IT department of St. Josef-Stift Hospital
+- Sendenhorst, Germany
+
+
 ## Personal
-Birth date: 20. April 1997
-- Citizenship: German
+<!-- Birth date: 20. April 1997 -->
+Citizenship: German
 - Residence: Helsinki, Finland
 
 ### Interests
