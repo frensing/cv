@@ -61,6 +61,20 @@ body {
 	margin-left: 1em;*/
 }
 
+#main {
+	position: relative;
+}
+
+#portrait {
+	width:160px;
+	position: absolute;
+	right: 2.7%;
+}
+
+#main h2:first-of-type {
+	margin-top: 3em;
+}
+
 p {
 	position: relative;
 	left: 25%;
