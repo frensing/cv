@@ -127,7 +127,7 @@ Citizenship: German
 
 ### Interests
 
-- Bouldering, cycling, reading
+Bouldering, cycling, reading, listening and collecting music
 - Building and flying racing drones
 
 ### Volunteering
