@@ -208,3 +208,8 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+#updated {
+	display: none;
+	visibility: hidden;
+}

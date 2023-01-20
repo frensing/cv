@@ -18,7 +18,11 @@ Computer Science Master Student
 
 Computer science master student at University of Helsinki.
 
-Interested in problem solving and puzzling tasks.
+### About
+
+I am a computer science student with a lot of experience working with diverse teams in various situations.
+This includes developing software for clients to planning and organizing holiday camps for children.
+I study computer science because I want to use my analytical and technical skills to shape a sustainable future by developing software and solving various problems for people.
 
 
 ## Education
@@ -129,16 +133,9 @@ Citizenship: German
 ### Volunteering
 
 `2014 - 2022`
-Team leader at local holiday camp for children aged 10 - 15
+Organization and team leading at local holiday camp for children aged 10 - 15
 
 \
-*Last updated: Jan 2023*
-
-
-
-<!-- 
-## Footer
-
-Last updated: Jan 2023 -->
+<em id="updated">Last updated: Jan 2023</em>
 
 
