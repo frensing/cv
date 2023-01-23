@@ -100,10 +100,11 @@ p code {
 
 ul { 
 	position: relative;
-	left: 25%;
+	left: 27%;
 	width: 60%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
+	list-style-type: disc;
 }
 
 /*uncomment to get dashes in the list*/
@@ -115,8 +116,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	/* padding-left: 1.25em; */
+	/* text-indent: -1.25em; */
 	/*color: #777;*/
 }
 
