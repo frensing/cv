@@ -21,7 +21,7 @@ Computer science master student at University of Helsinki.
 ### About
 
 As a student of computer science, I am dedicated to find innovative solutions and work on technologies that simplify life. Working in a team with people from various backgrounds is important to me, as the best progress can only come from diverse collaboration. My experience ranges from working in companies and research groups to organizing holiday camps for children. 
-In my studies and work, I excell in analytical problem-solving thinking, being able to explain complex concepts both in technical and simplified terms.
+In my studies and work I excell in analytical problem-solving thinking and being able to explain complex concepts both in technical and simplified terms.
 <!-- 
 I want to use my analytical and technical skills to shape a sustainable future by developing software and solving various problems. -->
 
@@ -106,18 +106,6 @@ Technical Skills
 - Some experience with **Kubernetes**, **AWS**, **Azure**
 - **HTML**, **CSS**, basics in **JavaScript**
 - Learning **Haskell** at the moment
-
-
-## Internships
-
-`Oct 2013`
-**Voluntary Internship** IT department of [VEKA AG](https://www.veka.de/homepage/)
-
-`Apr 2013`
-**Voluntary Internship** EDV Systemhaus Arno Kindler
-
-`May 2012`
-**High School Internship** IT department of St. Josef-Stift Hospital
 
 
 ## Personal
