@@ -109,7 +109,6 @@ Technical Skills
 
 
 ## Personal
-<!-- Birth date: 20. April 1997 -->
 - Citizenship: German
 - Residence: Helsinki, Finland
 
