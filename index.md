@@ -30,7 +30,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `Sep 2022 - now`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.56, Expected Graduation 2024
+- GPA 4.78, Expected Graduation in March 2024
 - Software Track
 
 `Aug 2020 - Dec 2020`
@@ -48,6 +48,10 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 <!-- ### Student Jobs -->
 
+`May 2023 - now`
+**Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
+- Setup of internal ML model pipelines and supporting infrastructure for EU project [Vessel-AI](https://vessel-ai.eu/)
+
 `Aug 2022 - Oct 2022`
 **Student Staff** [Data Science Group (DICE)](https://dice-research.org/)
 - Continuing development of open-source benchmark platform [BASILISK](https://github.com/dice-group/Basilisk)
@@ -59,7 +63,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 - Setup and configuration of Jupyter Hub instance using Docker and Kubernetes for internal use by colleagues
 
 `Apr 2020 - Jul 2020`
-**Tutor** Course Data Structures and Algorithms at [UPB](https://www.uni-paderborn.de/en/)
+**Tutor** Data Structures and Algorithms Course at [UPB](https://www.uni-paderborn.de/en/)
 - Teaching weekly classes, explaining exercises, solving student understanding problems
 
 `Sep 2018 - Mar 2019`
@@ -103,7 +107,7 @@ Technical Skills
 - **SQL**, mostly worked with ORACLE SQL
 - **Git**, GitHub, colaborating in Teams
 - **Docker**, Docker Compose
-- Some experience with **Kubernetes**, **AWS**, **Azure**
+- Some experience with **Kubernetes**, **Azure**, **AWS**
 - **HTML**, **CSS**, basics in **JavaScript**
 - Learning **Haskell** at the moment
 
