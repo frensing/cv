@@ -30,7 +30,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `Sep 2022 - now`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.78, Expected Graduation in March 2024
+- GPA 4.82, Expected Graduation in April 2024
 - Software Track
 
 `Aug 2020 - Dec 2020`
@@ -51,6 +51,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 `May 2023 - now`
 **Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
 - Setup of internal ML model pipelines and supporting infrastructure for EU project [Vessel-AI](https://vessel-ai.eu/)
+- Research vessel fouling estimation and hull cleaning detection from on-board sensor data
 
 `Aug 2022 - Oct 2022`
 **Student Staff** [Data Science Group (DICE)](https://dice-research.org/)
@@ -94,7 +95,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 ## Skills
 Problem solver, Critical thinking
 - quick comprehension and familiarization in new subject domains
-- explain concepts on technical level, but also simplified
+- being able to explain concepts on technical level, but also in simplified terms
 
 Languages
 - **German** - Native Language
@@ -104,11 +105,13 @@ Languages
 Technical Skills
 - **Java**, Spring (Boot), Clean Code
 - **Python**, Django
+- **Javascript**, Node.js, React
 - **SQL**, mostly worked with ORACLE SQL
-- **Git**, GitHub, colaborating in Teams
+- **MongoDB**
+- **Git**, GitHub, collaborating in Teams
 - **Docker**, Docker Compose
-- Some experience with **Kubernetes**, **Azure**, **AWS**
-- **HTML**, **CSS**, basics in **JavaScript**
+- Experience with **Kubernetes**, **Azure**, **AWS**
+- **HTML**, **CSS**
 - Learning **Haskell** at the moment
 
 
@@ -126,6 +129,6 @@ Technical Skills
 Organization and team leading at local holiday camp for children aged 10 - 15
 
 \
-<em id="updated">Last updated: Jan 2023</em>
+<em id="updated">Last updated: Mar 2024</em>
 
 
