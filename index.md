@@ -30,7 +30,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `Sep 2022 - now`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.82, Expected Graduation in April 2024
+- GPA 4.82, Expected Graduation in May 2024
 - Software Track
 
 `Aug 2020 - Dec 2020`
@@ -50,6 +50,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `May 2023 - now`
 **Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
+- Fulltime position
 - Setup of internal ML model pipelines and supporting infrastructure for EU project [Vessel-AI](https://vessel-ai.eu/)
 - Research vessel fouling estimation and hull cleaning detection from on-board sensor data
 
