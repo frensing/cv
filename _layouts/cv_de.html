@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+</head>
+<body>
+  <div id="main">
+    <a id="download" href="Fabian%20Rensing%20Lebenslauf.pdf">
+      <code class="language-plaintext highlighter-rouge">download als PDF</code>
+    </a>
+    <img id="portrait" src="media/portrait.jpg" alt="Portrait Fabian Rensing">
+    <div id="content">
+    {{ content }}
+    </div>
+  </div>
+</body>
+</html>

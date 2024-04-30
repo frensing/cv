@@ -73,7 +73,7 @@ body {
 }
 
 #main h2:first-of-type {
-	margin-top: 4.2em;
+	margin-top: 4em;
 }
 
 #content {
@@ -107,7 +107,7 @@ ul {
 	position: relative;
 	left: 27%;
 	width: 60%;
-	margin-bottom: 1em;
+	margin-bottom: 0.8em;
 	/*margin-top: -0.5em;*/
 	list-style-type: disc;
 }
