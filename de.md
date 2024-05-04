@@ -5,7 +5,7 @@ title: Fabian Rensing
 # Fabian Rensing
 Informatik Master Student
 
-<a href="work@frensing.de">work@frensing.de</a>
+<a href="mailto:work@frensing.de">work@frensing.de</a>
 
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
@@ -20,7 +20,7 @@ Informatik Master Student an der University of Helsinki.
 
 ### About
 
-Als Student der Informatik möchte ich innovative Lösungen finden und an Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
+Als Student der Informatik möchte ich innovative Lösungen finden und mit Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
 In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte sowohl in technischen als auch in vereinfachten Begriffen zu erklären.
 <!-- 
 I want to use my analytical and technical skills to shape a sustainable future by developing software and solving various problems. -->
@@ -49,7 +49,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 <!-- ### Student Jobs -->
 
-`Mai 2023 - jetzt`
+`Mai 2023 - Mai 2024`
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
 - Vollzeit Position
 - Aufbau interner ML Trainingspipelines und unterstützender Infrastruktur für das EU Projekt [Vessel-AI](https://vessel-ai.eu/)
@@ -117,11 +117,8 @@ Technical Skills
 - Lerne **Haskell** als Hobby
 
 
-## Personal
-- Aktueller Wohnort: Helsinki, Finland
-
-### Interessen
-- Bouldering, Fahrrad fahren, Lesen, Sammeln und Hören von internationaler Musik
+## Interessen
+- Bouldering, Fahrrad fahren, Lesen, Sammeln internationaler Musik
 - Bauen und Fliegen von Racing Drohnen
 
 ### Ehrenamt

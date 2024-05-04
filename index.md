@@ -5,7 +5,7 @@ title: Fabian Rensing
 # Fabian Rensing
 Computer Science Master Student
 
-<a href="work@frensing.de">work@frensing.de</a>
+<a href="mailto:work@frensing.de">work@frensing.de</a>
 
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
@@ -48,7 +48,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 <!-- ### Student Jobs -->
 
-`May 2023 - now`
+`May 2023 - May 2024`
 **Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
 - Fulltime position
 - Setup of internal ML model pipelines and supporting infrastructure for EU project [Vessel-AI](https://vessel-ai.eu/)
@@ -130,6 +130,6 @@ Technical Skills
 Organization and team leading at local holiday camp for children aged 10 - 15
 
 \
-<em id="updated">Last updated: April 2024</em>
+<em id="updated">Last updated: Mai 2024</em>
 
 
