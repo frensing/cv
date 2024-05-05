@@ -104,7 +104,7 @@ Languages
 - **Finnish** - A1.1
 
 Technical Skills
-- **Java**, Spring (Boot), Clean Code
+- **Java**, Spring (Boot), Clean Code, Gradle, Maven
 - **Python**, Django
 - **Javascript**, Node.js, React
 - **SQL**, mostly worked with ORACLE SQL
