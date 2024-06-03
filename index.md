@@ -30,7 +30,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `Sep 2022 - now`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.82, Expected Graduation in May 2024
+- GPA 4.85, Expected Graduation in June 2024
 - Software Track
 
 `Aug 2020 - Dec 2020`
@@ -130,6 +130,6 @@ Technical Skills
 Organization and team leading at local holiday camp for children aged 10 - 15
 
 \
-<em id="updated">Last updated: Mai 2024</em>
+<em id="updated">Last updated: June 2024</em>
 
 

@@ -30,7 +30,7 @@ I want to use my analytical and technical skills to shape a sustainable future b
 
 `Sep 2022 - jetzt`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- Notendurchschnitt 4.82 (finnisches Notensystem)
+- Notendurchschnitt 4.85 (finnisches Notensystem)
 - Geplanter Studienabschluss im Juni 2024
 - Software Engineering Vertiefungsbereich
 
@@ -127,4 +127,4 @@ Technical Skills
 Organisation und Leitung von jährlichen Ferienlagern für Kinder zwischen 10 - 15
 
 \
-<em id="updated">Letztes Update: Mai 2024</em>
+<em id="updated">Letztes Update: June 2024</em>
