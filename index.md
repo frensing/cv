@@ -5,8 +5,6 @@ title: Fabian Rensing
 # Fabian Rensing
 Computer Science Master Student
 
-<a href="mailto:work@frensing.de">work@frensing.de</a>
-
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
     | <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
@@ -22,31 +20,12 @@ Computer science master student at University of Helsinki.
 
 As a student of computer science, I am dedicated to find innovative solutions and work on technologies that simplify life. Working in a team with people from various backgrounds is important to me, as the best progress can only come from diverse collaboration. My experience ranges from working in companies and research groups to organizing holiday camps for children. 
 In my studies and work I excell in analytical problem-solving thinking and being able to explain complex concepts both in technical and simplified terms.
-<!-- 
-I want to use my analytical and technical skills to shape a sustainable future by developing software and solving various problems. -->
-
-
-## Education
-
-`Sep 2022 - now`
-**M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.85, Expected Graduation in June 2024
-- Software Track
-
-`Aug 2020 - Dec 2020`
-**Erasmus Exchange Semester** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-
-`Oct 2018 - Aug 2022`
-**B.S., Computer Science** [Paderborn University](https://www.uni-paderborn.de/en/)
-- GPA 1.7 (German scale)
-- Business informatics minor 
-
 
 ## Experience
 
-<!-- (See [LinkedIn](https://www.linkedin.com/in/fabian-rensing-75aa941b8) for short description of tasks) -->
-
-<!-- ### Student Jobs -->
+`Sep 2024 - now`
+**Software Engineer** [Finanz Informatik](https//f-i.de)
+- Software development in the context of the business customer portal
 
 `May 2023 - May 2024`
 **Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
@@ -72,9 +51,6 @@ I want to use my analytical and technical skills to shape a sustainable future b
 **Student Staff** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Analysing client domain and development of testing routines for client in the financial sector
 
-
-<!-- ### Fulltime Work -->
-
 `Feb 2018 - Aug 2018`
 **IT Consultant** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Conception, development and testing of a work time planning software for a client in the telecommunication sector
@@ -85,6 +61,20 @@ I want to use my analytical and technical skills to shape a sustainable future b
 - Development of internal reporting website visualizing important key figures for the management of the department.
 - Data aggregation and presentation from different data sources and colleagues for various requests and presentations
 
+## Education
+
+`Sep 2022 - Aug 2024`
+**M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
+- GPA 4.85, Expected Graduation in June 2024
+- Software Track
+
+`Aug 2020 - Dec 2020`
+**Erasmus Exchange Semester** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
+
+`Oct 2018 - Aug 2022`
+**B.S., Computer Science** [Paderborn University](https://www.uni-paderborn.de/en/)
+- GPA 1.7 (German scale)
+- Business informatics minor
 
 ## Awards
 

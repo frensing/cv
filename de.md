@@ -5,8 +5,6 @@ title: Fabian Rensing
 # Fabian Rensing
 Informatik Master Student
 
-<a href="mailto:work@frensing.de">work@frensing.de</a>
-
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
     | <a href="https://github.com/frensing"><i class="fab fa-github"></i> frensing</a>
@@ -22,32 +20,12 @@ Informatik Master Student an der University of Helsinki.
 
 Als Student der Informatik möchte ich innovative Lösungen finden und mit Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
 In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte sowohl in technischen als auch in vereinfachten Begriffen zu erklären.
-<!-- 
-I want to use my analytical and technical skills to shape a sustainable future by developing software and solving various problems. -->
-
-
-## Bildung
-
-`Sep 2022 - jetzt`
-**M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- Notendurchschnitt 4.85 (finnisches Notensystem)
-- Geplanter Studienabschluss im Juni 2024
-- Software Engineering Vertiefungsbereich
-
-`Aug 2020 - Dez 2020`
-**Erasmus Austauschsemester** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-
-`Okt 2018 - Aug 2022`
-**B.S., Informatik** [Universität Paderborn](https://www.uni-paderborn.de/en/)
-- Notendurchschnitt 1.7
-- Nebenfach Wirtschaftsinformatik
-
 
 ## Berufspraxis
 
-<!-- (See [LinkedIn](https://www.linkedin.com/in/fabian-rensing-75aa941b8) for short description of tasks) -->
-
-<!-- ### Student Jobs -->
+`Sep 2024 - now`
+**Software Engineer** [Finanz Informatik](https//f-i.de)
+- Weiterentwicklung im Berich Firmenkundenportal
 
 `Mai 2023 - Mai 2024`
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
@@ -86,6 +64,22 @@ I want to use my analytical and technical skills to shape a sustainable future b
 - Verkürzte **Ausbildung** wegen herausragenden Leistungen, [Deutsche Telekom AG](https://www.telekom.com/en)
 - Entwicklung einer internen Reporting-Website zur Visualisierung wichtiger Kennzahlen für das Management der Abteilung.
 
+
+## Bildung
+
+`Sep 2022 - Aug 2024`
+**M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
+- Notendurchschnitt 4.85 (finnisches Notensystem)
+- Geplanter Studienabschluss im Juni 2024
+- Software Engineering Vertiefungsbereich
+
+`Aug 2020 - Dez 2020`
+**Erasmus Austauschsemester** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
+
+`Okt 2018 - Aug 2022`
+**B.S., Informatik** [Universität Paderborn](https://www.uni-paderborn.de/en/)
+- Notendurchschnitt 1.7
+- Nebenfach Wirtschaftsinformatik
 
 ## Auszeichnungen
 
