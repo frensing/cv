@@ -3,7 +3,7 @@ layout: cv_de
 title: Fabian Rensing
 ---
 # Fabian Rensing
-Informatik Master Student
+Software Engineer
 
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
@@ -14,18 +14,19 @@ Informatik Master Student
 
 ## Aktuell
 
-Informatik Master Student an der University of Helsinki.
+Software Engineer bei der Finanz Informatik.
 
 ### About
 
-Als Student der Informatik möchte ich innovative Lösungen finden und mit Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
-In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte sowohl in technischen als auch in vereinfachten Begriffen zu erklären.
+Als Softwar Engineer möchte ich innovative Lösungen entwickelt und mit Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
+In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte zu durchdenken und sowohl in technischen als auch in vereinfachten Begriffen zu erklären.
 
 ## Berufspraxis
 
 `Sep 2024 - now`
 **Software Engineer** [Finanz Informatik](https//f-i.de)
-- Weiterentwicklung im Berich Firmenkundenportal
+- Weiterentwicklung im Bereich Firmenkundenportal
+- Technische Verantwortung für die Entwicklung von neuen Features und die Wartung bestehender Funktionalität
 
 `Mai 2023 - Mai 2024`
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
@@ -69,8 +70,7 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 
 `Sep 2022 - Aug 2024`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- Notendurchschnitt 4.85 (finnisches Notensystem)
-- Geplanter Studienabschluss im Juni 2024
+- Notendurchschnitt 5 (finnisches Notensystem)
 - Software Engineering Vertiefungsbereich
 
 `Aug 2020 - Dez 2020`
@@ -100,16 +100,14 @@ Sprachen
 
 Technical Skills
 - **Java**, Spring (Boot), Clean Code, Gradle, Maven
-- **Python**, Django
 - **Javascript**, Node.js, React
+- **Python**, Django
 - **SQL**, ORACLE SQL
 - **MongoDB**
 - **Git**, GitHub
 - **Docker**, Docker Compose
 - Erfahrungen mit **Kubernetes**, **Azure**, **AWS**
 - **HTML**, **CSS**
-- Lerne **Haskell** als Hobby
-
 
 ## Interessen
 - Bouldering, Fahrrad fahren, Lesen, Sammeln internationaler Musik
@@ -121,4 +119,4 @@ Technical Skills
 Organisation und Leitung von jährlichen Ferienlagern für Kinder zwischen 10 - 15
 
 \
-<em id="updated">Letztes Update: June 2024</em>
+<em id="updated">Letztes Update: Feb 2026</em>

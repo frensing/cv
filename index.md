@@ -3,7 +3,7 @@ layout: cv
 title: Fabian Rensing
 ---
 # Fabian Rensing
-Computer Science Master Student
+Software Engineer
 
 <div id="webaddress">
     <a href="https://frensing.de"><i class="fas fa-home"></i> frensing.de</a>
@@ -14,18 +14,19 @@ Computer Science Master Student
 
 ## Currently
 
-Computer science master student at University of Helsinki.
+Software Engineer at Finanz Informatik.
 
 ### About
 
-As a student of computer science, I am dedicated to find innovative solutions and work on technologies that simplify life. Working in a team with people from various backgrounds is important to me, as the best progress can only come from diverse collaboration. My experience ranges from working in companies and research groups to organizing holiday camps for children. 
-In my studies and work I excell in analytical problem-solving thinking and being able to explain complex concepts both in technical and simplified terms.
+As a software engineer I am dedicated to develop innovative solutions and work on technologies that simplify life. Working in a team with people from various backgrounds is important to me, as the best progress can only come from diverse collaboration. My experience ranges from working in companies and research groups to organizing holiday camps for children. 
+In my work I excel in analytical problem-solving thinking and being able to comprehend and explain complex concepts both in technical and simplified terms.
 
 ## Experience
 
 `Sep 2024 - now`
 **Software Engineer** [Finanz Informatik](https//f-i.de)
 - Software development in the context of the business customer portal
+- Technical responsibility for the development of new features and the maintenance of existing functionality
 
 `May 2023 - May 2024`
 **Research Assistant** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
@@ -65,7 +66,7 @@ In my studies and work I excell in analytical problem-solving thinking and being
 
 `Sep 2022 - Aug 2024`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- GPA 4.85, Expected Graduation in June 2024
+- GPA 5 (Finnish grading system)
 - Software Track
 
 `Aug 2020 - Dec 2020`
@@ -95,16 +96,14 @@ Languages
 
 Technical Skills
 - **Java**, Spring (Boot), Clean Code, Gradle, Maven
-- **Python**, Django
 - **Javascript**, Node.js, React
+- **Python**, Django
 - **SQL**, mostly worked with ORACLE SQL
 - **MongoDB**
 - **Git**, GitHub, collaborating in Teams
 - **Docker**, Docker Compose
 - Experience with **Kubernetes**, **Azure**, **AWS**
 - **HTML**, **CSS**
-- Learning **Haskell** at the moment
-
 
 ## Personal
 - Citizenship: German
@@ -120,6 +119,6 @@ Technical Skills
 Organization and team leading at local holiday camp for children aged 10 - 15
 
 \
-<em id="updated">Last updated: June 2024</em>
+<em id="updated">Last updated: Feb 2026</em>
 
 
