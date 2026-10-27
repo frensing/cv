@@ -92,7 +92,7 @@ Technische Kenntnisse
 - Programmiersprachen: Java, JavaScript, Python, SQL
 - Frameworks: Spring Boot, React, Node.js
 - Test-Frameworks: JUnit, Mockito, AssertJ
-- Datenbanken: Oracle, MongoDB
+- Datenbanken: DB2, Oracle, MongoDB
 - Build & Versionierung: Maven, Gradle, Git, GitHub
 - Container & Cloud: Docker, Docker Compose, Kubernetes, Azure, AWS
 - Methoden: Clean Code, Softwarearchitektur, automatisiertes Testen
