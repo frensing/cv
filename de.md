@@ -14,11 +14,12 @@ Software Engineer
 
 ## Aktuell
 
-Software Engineer bei der Finanz Informatik
+Software Engineer bei der Finanz Informatik.
 
 ### About
 
-Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von Fachanwendungen für den Firmenkundenbereich der Finanz Informatik. Mein Schwerpunkt liegt auf der Backend-Entwicklung mit Java und Spring Boot, ergänzt durch Fullstack-Kenntnisse in TypeScript und React. Ich verantworte Projekte von der Konzeption über die Umsetzung bis zur Wartung und zerlege komplexe fachliche Anforderungen in wartbare, nachvollziehbare Lösungen. Die Zusammenarbeit in interdisziplinären Teams schätze ich besonders, da unterschiedliche Perspektiven zu besseren Ergebnissen führen. Durch meine ehrenamtliche Jugendarbeit bringe ich zudem Verantwortungsbewusstsein und die Fähigkeit mit, Inhalte verständlich zu vermitteln.
+Als Software Engineer möchte ich innovative Lösungen entwickeln und an Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur ehrenamtlichen Jugendarbeit. 
+In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte zu durchdenken. 
 
 ## Berufspraxis
 
@@ -29,9 +30,9 @@ Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von F
 
 `Mai 2023 - Mai 2024`
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
+- Vollzeit Position
 - Aufbau interner ML Trainingspipelines und unterstützender Infrastruktur für das EU Projekt [Vessel-AI](https://vessel-ai.eu/)
 - Forschung zur Nutzung von ML Ansätzen für das Erkennen und Abschätzen von maritimen Schiffsbewuchs basierend auf Sensor Messwerten
-- Vollzeit Position
 
 `Aug 2022 - Okt 2022`
 **Studentische Hilfskraft** [Data Science Group (DICE)](https://dice-research.org/)
@@ -51,6 +52,9 @@ Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von F
 **Studentische Hilfskraft** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Analyse der Kundendomäne und Entwicklung von Testroutinen für Kunden aus dem Finanzsektor
 
+
+<!-- ### Fulltime Work -->
+
 `Feb 2018 - Aug 2018`
 **IT Berater** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Konzeption, Entwicklung und Test einer Arbeitszeitplanungssoftware für einen Kunden aus der Telekommunikationsbranche
@@ -65,7 +69,7 @@ Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von F
 
 `Sep 2022 - Aug 2024`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- Notendurchschnitt 5 (finnisches Notensystem, entspricht 1,0 im deutschen System)
+- Notendurchschnitt 5 (finnisches Notensystem)
 - Software Engineering Vertiefungsbereich
 
 `Aug 2020 - Dez 2020`
@@ -84,32 +88,24 @@ Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von F
 
 
 ## Skills
-Auffassungsgabe
-- schnelles Verstehen und Einarbeiten in neue Themenbereiche
+Technische Kenntnisse
+- Programmiersprachen: Java, JavaScript, Python, SQL
+- Frameworks: Spring Boot, React, Node.js
+- Test-Frameworks: JUnit, Mockito, AssertJ
+- Datenbanken: Oracle, MongoDB
+- Build & Versionierung: Maven, Gradle, Git, GitHub
+- Container & Cloud: Docker, Docker Compose, Kubernetes, Azure, AWS
+- Methoden: Clean Code, Softwarearchitektur, automatisiertes Testen
 
-Problemlöser, kritisches Denken
-- entwickeln und abwägen von Architektur- und Implementierungsentscheidungen
-
-Kommunikation
-- kommunizieren von Themen auf versch. Fachlichen Leveln, technische Ebene, sowie fachliche "nicht-techniker" Ebene
-
-Programmierung
-- hoher Selbstanspruch an Codequalität, Wartbarkeit und Testbarkeit
-
+Arbeitsweise
+- Architektur: Entwurf und Abwägung von Architektur- und Implementierungsentscheidungen
+- Codequalität: hoher Anspruch an wartbaren, lesbaren und testbaren Code
+- Kommunikation: zielgruppengerechte Vermittlung technischer Inhalte, im Entwicklungsteam wie gegenüber Fachabteilungen
+- Einarbeitung: schnelles Erschließen neuer Technologien und fachlicher Domänen
 
 Sprachen
-- **Deutsch** - Muttersprache
-- **Englisch** - C1, Toefl iBT Score 111/120
-
-Technische Skills
-- **Java**, Spring (Boot), Clean Code, Gradle, Maven
-- **Javascript**, Node.js, React
-- **Python**, Django
-- **SQL**, ORACLE SQL
-- **MongoDB**
-- **Git**, GitHub
-- **Docker**, Docker Compose
-- Erfahrungen mit **Kubernetes**, **Azure**, **AWS**
+- Deutsch: Muttersprache
+- Englisch: verhandlungssicher (C1, TOEFL iBT 111/120)
 
 ## Interessen
 - Bouldern, Fahrrad fahren, Lesen, Sammeln internationaler Musik
