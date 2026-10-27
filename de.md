@@ -14,12 +14,11 @@ Software Engineer
 
 ## Aktuell
 
-Software Engineer bei der Finanz Informatik.
+Software Engineer bei der Finanz Informatik
 
 ### About
 
-Als Software Engineer möchte ich innovative Lösungen entwickeln und an Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur ehrenamtlichen Jugendarbeit. 
-In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte zu durchdenken. 
+Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von Fachanwendungen für den Firmenkundenbereich der Finanz Informatik. Mein Schwerpunkt liegt auf der Backend-Entwicklung mit Java und Spring Boot, ergänzt durch Fullstack-Kenntnisse in TypeScript und React. Ich verantworte Projekte von der Konzeption über die Umsetzung bis zur Wartung und zerlege komplexe fachliche Anforderungen in wartbare, nachvollziehbare Lösungen. Die Zusammenarbeit in interdisziplinären Teams schätze ich besonders, da unterschiedliche Perspektiven zu besseren Ergebnissen führen. Durch meine ehrenamtliche Jugendarbeit bringe ich zudem Verantwortungsbewusstsein und die Fähigkeit mit, Inhalte verständlich zu vermitteln.
 
 ## Berufspraxis
 
@@ -30,9 +29,9 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 
 `Mai 2023 - Mai 2024`
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
-- Vollzeit Position
 - Aufbau interner ML Trainingspipelines und unterstützender Infrastruktur für das EU Projekt [Vessel-AI](https://vessel-ai.eu/)
 - Forschung zur Nutzung von ML Ansätzen für das Erkennen und Abschätzen von maritimen Schiffsbewuchs basierend auf Sensor Messwerten
+- Vollzeit Position
 
 `Aug 2022 - Okt 2022`
 **Studentische Hilfskraft** [Data Science Group (DICE)](https://dice-research.org/)
@@ -52,9 +51,6 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 **Studentische Hilfskraft** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Analyse der Kundendomäne und Entwicklung von Testroutinen für Kunden aus dem Finanzsektor
 
-
-<!-- ### Fulltime Work -->
-
 `Feb 2018 - Aug 2018`
 **IT Berater** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Konzeption, Entwicklung und Test einer Arbeitszeitplanungssoftware für einen Kunden aus der Telekommunikationsbranche
@@ -69,7 +65,7 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 
 `Sep 2022 - Aug 2024`
 **M.S., Computer Science** [University of Helsinki](https://www.helsinki.fi/en/faculty-science/faculty/computer-science)
-- Notendurchschnitt 5 (finnisches Notensystem)
+- Notendurchschnitt 5 (finnisches Notensystem, entspricht 1,0 im deutschen System)
 - Software Engineering Vertiefungsbereich
 
 `Aug 2020 - Dez 2020`
@@ -103,10 +99,9 @@ Programmierung
 
 Sprachen
 - **Deutsch** - Muttersprache
-- **Englisch** - C1, Toefl iBT score 111/120 (18.12.2021)
-- **Finnisch** - A1.1
+- **Englisch** - C1, Toefl iBT Score 111/120
 
-Technical Skills
+Technische Skills
 - **Java**, Spring (Boot), Clean Code, Gradle, Maven
 - **Javascript**, Node.js, React
 - **Python**, Django
