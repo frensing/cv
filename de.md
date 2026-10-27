@@ -104,7 +104,7 @@ Arbeitsweise
 
 Sprachen
 - Deutsch: Muttersprache
-- Englisch: verhandlungssicher (C1, TOEFL iBT 111/120)
+- Englisch: C1, TOEFL iBT (111/120 Punkte)
 - Finnisch: Grundkenntnisse (A1)
 
 ## Interessen
