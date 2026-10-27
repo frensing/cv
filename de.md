@@ -76,7 +76,7 @@ Software Engineer mit über zwei Jahren Berufserfahrung in der Entwicklung von F
 
 `Okt 2018 - Aug 2022`
 **B.S., Informatik** [Universität Paderborn](https://www.uni-paderborn.de/en/)
-- Notendurchschnitt 1.7
+- Notendurchschnitt 1,7
 - Nebenfach Wirtschaftsinformatik
 
 ## Auszeichnungen
@@ -104,7 +104,7 @@ Arbeitsweise
 
 Sprachen
 - Deutsch: Muttersprache
-- Englisch: C1, TOEFL iBT (111/120 Punkte)
+- Englisch: C1, TOEFL iBT 111/120 Punkte
 - Finnisch: Grundkenntnisse (A1)
 
 ## Interessen
