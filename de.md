@@ -106,6 +106,7 @@ Arbeitsweise
 Sprachen
 - Deutsch: Muttersprache
 - Englisch: verhandlungssicher (C1, TOEFL iBT 111/120)
+- Finnisch: Grundkenntnisse (A1)
 
 ## Interessen
 - Bouldern, Fahrrad fahren, Lesen, Sammeln internationaler Musik
