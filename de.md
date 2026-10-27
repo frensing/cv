@@ -18,12 +18,12 @@ Software Engineer bei der Finanz Informatik.
 
 ### About
 
-Als Softwar Engineer möchte ich innovative Lösungen entwickelt und mit Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur Organisation von Ferienlagern für Kinder. 
-In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte zu durchdenken und sowohl in technischen als auch in vereinfachten Begriffen zu erklären.
+Als Software Engineer möchte ich innovative Lösungen entwickeln und an Technologien arbeiten, die das Leben vereinfachen. Die Arbeit in einem Team mit Menschen mit unterschiedlichem Hintergrund ist mir wichtig, da der beste Fortschritt nur durch vielfältige Zusammenarbeit entstehen kann. Meine Erfahrungen reichen von der Arbeit in Unternehmen und Forschungsgruppen bis hin zur ehrenamtlichen Jugendarbeit. 
+In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, problemlösendes Denken und die Fähigkeit aus, komplexe Konzepte zu durchdenken. 
 
 ## Berufspraxis
 
-`Sep 2024 - now`
+`Sep 2024 - heute`
 **Software Engineer** [Finanz Informatik](https//f-i.de)
 - Weiterentwicklung im Bereich Firmenkundenportal
 - Technische Verantwortung für die Entwicklung von neuen Features und die Wartung bestehender Funktionalität
@@ -32,7 +32,7 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 **Forschungsassistent** [Empirical Software Engineering (UH)](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering)
 - Vollzeit Position
 - Aufbau interner ML Trainingspipelines und unterstützender Infrastruktur für das EU Projekt [Vessel-AI](https://vessel-ai.eu/)
-- Forschung zur Nutzung von ML Ansätzen für das Erkennen und Abschätzen von maritimen Schiffsbewuchs basierend auf Sensor Messwerten.
+- Forschung zur Nutzung von ML Ansätzen für das Erkennen und Abschätzen von maritimen Schiffsbewuchs basierend auf Sensor Messwerten
 
 `Aug 2022 - Okt 2022`
 **Studentische Hilfskraft** [Data Science Group (DICE)](https://dice-research.org/)
@@ -49,8 +49,7 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 - Wöchentliche Tutorien, Besprechung der Hausaufgaben, lösen von Verständnisproblemen bei Studenten
 
 `Sep 2018 - Mär 2019`
-**Studentische Hilfskraft**
-- [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
+**Studentische Hilfskraft** [viadee Unternehmensberatung AG](https://www.viadee.de/en/)
 - Analyse der Kundendomäne und Entwicklung von Testroutinen für Kunden aus dem Finanzsektor
 
 
@@ -63,7 +62,7 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 `Sep 2015 - Jan 2018`
 **Fachinformatiker für Anwendungsentwicklung**
 - Verkürzte **Ausbildung** wegen herausragenden Leistungen, [Deutsche Telekom AG](https://www.telekom.com/en)
-- Entwicklung einer internen Reporting-Website zur Visualisierung wichtiger Kennzahlen für das Management der Abteilung.
+- Entwicklung einer internen Reporting-Website zur Visualisierung wichtiger Kennzahlen für das Management der Abteilung
 
 
 ## Bildung
@@ -89,9 +88,18 @@ In meinem Studium und bei meiner Arbeit zeichne ich mich durch analytisches, pro
 
 
 ## Skills
-Problemlöser, kritisches Denken
+Auffassungsgabe
 - schnelles Verstehen und Einarbeiten in neue Themenbereiche
-- in der Lage sein, Konzepte auf technischer Ebene, aber auch in vereinfachter Form zu erklären
+
+Problemlöser, kritisches Denken
+- entwickeln und abwägen von Architektur- und Implementierungsentscheidungen
+
+Kommunikation
+- kommunizieren von Themen auf versch. Fachlichen Leveln, technische Ebene, sowie fachliche "nicht-techniker" Ebene
+
+Programmierung
+- hoher Selbstanspruch an Codequalität, Wartbarkeit und Testbarkeit
+
 
 Sprachen
 - **Deutsch** - Muttersprache
@@ -107,16 +115,20 @@ Technical Skills
 - **Git**, GitHub
 - **Docker**, Docker Compose
 - Erfahrungen mit **Kubernetes**, **Azure**, **AWS**
-- **HTML**, **CSS**
 
 ## Interessen
-- Bouldering, Fahrrad fahren, Lesen, Sammeln internationaler Musik
+- Bouldern, Fahrrad fahren, Lesen, Sammeln internationaler Musik
 - Bauen und Fliegen von Racing Drohnen
+- Open Source Smart Home, und Self hosting von privaten Diensten
 
 ### Ehrenamt
 
-`2014 - 2022`
-Organisation und Leitung von jährlichen Ferienlagern für Kinder zwischen 10 - 15
+`2025`
+Organisation des lokalen Stadtspiels ["Dondrekiel"](https://dondrekiel.de/)
 
-\
-<em id="updated">Letztes Update: Feb 2026</em>
+`2014 - 2022`
+Organisation und Leitung von jährlichen Ferienlagern für Kinder und Jugendliche zwischen 10 - 15 Jahren
+
+<em id="updated">
+<br>
+Letztes Update: Okt 2026</em>
